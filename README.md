@@ -28,5 +28,5 @@ Titanic Data:
 
 Try and suggest questions that promote looking at relationships between multiple variables. You should aim to analyze at least one dependent variable and three independent variables in your investigation. Make sure you use NumPy and Pandas where they are appropriate!
 
-### Step Four - Share Your Findings
+### Share Your Findings
 Once you have finished analyzing the data, create a report that shares the findings you found most interesting. You might wish to use Jupyter notebook to share your findings alongside the code you used to perform the analysis, but you can also use another tool if you wish. If you do use a Jupyter notebook, make sure that your report text is contained in Markdown cells to clearly distinguish your comments and findings from your code work.
